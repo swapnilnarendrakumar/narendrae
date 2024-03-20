@@ -16,7 +16,7 @@ a{
 }
 pre{
     font-family: monospace;
-    font-size: 100%;
+    size: 100%;
 }
 mark{
     background-color: pink;
