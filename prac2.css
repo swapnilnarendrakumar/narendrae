@@ -1,0 +1,95 @@
+h1{
+    font-family: Raleway,sans-serif;
+}
+h2{
+    text-align: left;
+    font-family: Raleway, sans-serif;
+}
+body{
+    font-family: noto-serif,serif;
+}
+p{
+    font-family: sans-serif;
+}
+a{
+    color: darkgreen;
+}
+pre{
+    font-family: monospace;
+}
+mark{
+    background-color: pink;
+    color: darkblue;
+}
+h4{
+    font-style: italic;
+    font-weight: normal;
+    
+    text-decoration: underline;
+
+    font-family:Raleway;
+    
+}
+blockquote{
+    color:dimgrey;
+    line-height:1.5;
+    word-spacing:0.2em;
+    text-align: justify;
+    font-family:Raleway;
+   
+   
+}
+.icons{
+    color:#BFCFD4;
+    text-align:center;
+}
+ul.narendra{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: darkgrey;
+  }
+  
+li.narendra1{
+  float: left;
+  }
+  
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+li a:hover {
+    background-color: white;
+    color: lightgrey;
+    
+  }
+ul.n{
+      list-style-type: square;
+  
+  }
+ol.narendra3{
+      list-style-type: lower-roman;
+  }
+
+h3{
+    color: rgba(0, 0, 139,0.8);
+}
+.narendragr{
+    color: rgba(0,0,0.5,0.5);
+}
+.narendrag{
+    background-color:#DCF5F5;
+    background-image:url('cross.png');
+    background-repeat: repeat;
+}
+.narendrak1{
+    background-color:white;
+    border-radius:7px;
+    border:1px solid darkgrey;
+    padding:10px;
+}
